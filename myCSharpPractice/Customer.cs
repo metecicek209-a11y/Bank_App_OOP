@@ -27,6 +27,18 @@ namespace myCSharpPractice
             {
                 Balance = Balance - amount;
             }
+            
+        }
+        public void addMoney(int amount)
+        {
+            if (amount >= 0)
+            {
+                Balance = Balance + amount;
+            }
+            else
+            {
+                Console.WriteLine("amount is not right");
+            }
         }
     }
 }
