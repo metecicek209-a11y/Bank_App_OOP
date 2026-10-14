@@ -1,0 +1,15 @@
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\bin\Debug\net10.0\myCSharpPractice.exe
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\bin\Debug\net10.0\myCSharpPractice.deps.json
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\bin\Debug\net10.0\myCSharpPractice.runtimeconfig.json
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\bin\Debug\net10.0\myCSharpPractice.dll
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\bin\Debug\net10.0\myCSharpPractice.pdb
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\myCSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\myCSharpPractice.AssemblyInfoInputs.cache
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\myCSharpPractice.AssemblyInfo.cs
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\myCSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\myCSharpPractice.dll
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\refint\myCSharpPractice.dll
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\myCSharpPractice.pdb
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\myCSharpPractice.genruntimeconfig.cache
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\ref\myCSharpPractice.dll
+C:\Users\metec\source\repos\myCSharpPractice\myCSharpPractice\obj\Debug\net10.0\myCSharp.B00AEBF6.Up2Date
