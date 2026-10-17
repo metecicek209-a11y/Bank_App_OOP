@@ -13,7 +13,7 @@ namespace myCSharpPractice
         public string Password { get; }
         
 
-        Customer(string name,string sirname,int balance,string username ,string password)
+        public Customer(string name,string sirname,int balance,string username ,string password)
         {
             Name = name;
             Sirname = sirname;
@@ -21,7 +21,7 @@ namespace myCSharpPractice
             Username = username;
             Password = password;
         }
-        public void withdraw(int amount)
+        public void Withdraw(int amount)
         {
             if(Balance >= amount && amount > 0)
             {
@@ -29,7 +29,7 @@ namespace myCSharpPractice
             }
             
         }
-        public void addMoney(int amount)
+        public void AddMoney(int amount)
         {
             if (amount >= 0)
             {
@@ -39,6 +39,10 @@ namespace myCSharpPractice
             {
                 Console.WriteLine("amount is not right");
             }
+        }
+        public void ShowInfo()
+        {
+            Console.WriteLine($"Your current balance is : {Balance}");
         }
     }
 }
